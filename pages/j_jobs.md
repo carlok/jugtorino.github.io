@@ -14,6 +14,32 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+a
+
+
+---
+
+**Date:** 02/03/2020
+**Company:** AiliA SA / Takamaka
+**Location:** Lugano (Switzerland)
+**Title**: Full stack
+**Contact**: info@takamaka.io
+
+
+AiliA SA / Takamaka opera nel settore Fintech e, per la sede di Lugano (Svizzera), ricerca programmatori / sistemisti a tempo pieno con comprovata esperienza. Le mansioni riguardano lo sviluppo software di applicazioni blockchain, lo sviluppo web e il mantenimento dell'infrastruttura.
+
+* Backend: Java, Python, Ocaml, C, C#, ASP.NET, JSP, OCaml, Bash, Matlab
+* Frontend: JavaScript, HTML/CSS, Bootstrap
+* Blockchain: Solidity, Takamaka
+* Framework: Flask, telerik, SharePoint
+* Database: MySQL, PostgreSQL, MSSQL, Sqlite, DB2
+* Versioning: git, TFS
+* OS: Deblan, Ubuntu, Centos, Red Hat, Fedora, Window Server 2016, Windows Server 2012, Windows Server 2008 r2
+Sistemi: VMware, Active Directory, LDAP, Tomcat
+* Debug: Valgrid
+
+---
+
 **Date:** 05/11/2019   
 **Company:** AZINIT   
 **Location:** Turin (Italy)   
